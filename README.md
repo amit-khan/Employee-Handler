@@ -1,6 +1,6 @@
 # Employee-Handler
 
-**Technology used:** Java, Android Studio, web API
+**Technology used:** Java, Android Studio, web API, SQLite
 
 **Accomplishments:**\
 Fetching JSON data from server,\
